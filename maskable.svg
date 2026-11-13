@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Furever Match">
+  <rect width="512" height="512" fill="#0F2A4A"/>
+  <g fill="#FFFFFF" transform="translate(256 256) scale(0.7) translate(-256 -256)">
+    <ellipse cx="152" cy="236" rx="40" ry="52" transform="rotate(-18 152 236)"/>
+    <ellipse cx="217" cy="176" rx="40" ry="54"/>
+    <ellipse cx="295" cy="176" rx="40" ry="54"/>
+    <ellipse cx="360" cy="236" rx="40" ry="52" transform="rotate(18 360 236)"/>
+    <path d="M256 268c-52 0-96 34-96 82 0 36 30 58 62 58 18 0 26-8 34-8s16 8 34 8c32 0 62-22 62-58 0-48-44-82-96-82z"/>
+  </g>
+</svg>
